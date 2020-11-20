@@ -1,0 +1,8 @@
+
+App Thinning Size Report for All Variants of Runner
+
+Variant: 汇播-8661841B-05EF-4323-BBD1-591D6D082886.ipa
+Supported variant descriptors: [device: iPhone12,1, os-version: 13.0], [device: iPhone11,8, os-version: 14.0], [device: iPhone12,1, os-version: 14.0], and [device: iPhone11,8, os-version: 13.0]
+App + On Demand Resources size: 17.5 MB compressed, 41.6 MB uncompressed
+App size: 17.5 MB compressed, 41.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
